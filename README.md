@@ -1,4 +1,4 @@
-# sal-cucumber-js-shouty
+# sal-cucumber-js-playground
 
 ```npm install --save-dev @cucumber/cucumber```
 
