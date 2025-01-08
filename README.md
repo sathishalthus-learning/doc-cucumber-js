@@ -23,3 +23,9 @@
 14. See scenario pending. copy step codes in step definitions file and run test again verify as pendding ```P--```
 15. See scenario failing. add enough code and run test and expect ```..F```
 16. See scenario passing. ``` ...```
+
+## more
+17. variables and examples
+18. api testing
+19. browser automation ````npm install selenium-webdriver```
+20. ``` npx cucumber-js```
