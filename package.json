@@ -88,6 +88,7 @@
     "resolve-from": "^5.0.0",
     "resolve-pkg": "^2.0.0",
     "seed-random": "^2.2.0",
+    "selenium-webdriver": "^4.27.0",
     "semver": "^7.5.3",
     "shebang-command": "^2.0.0",
     "shebang-regex": "^3.0.0",
@@ -126,7 +127,8 @@
     "yup": "^1.2.0"
   },
   "devDependencies": {
-    "@cucumber/cucumber": "^11.1.1"
+    "@cucumber/cucumber": "^11.1.1",
+    "chai": "^5.1.2"
   },
   "scripts": {
     "test": "cucumber-js"
