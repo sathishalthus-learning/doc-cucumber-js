@@ -1,4 +1,4 @@
-# sal-cucumber-js-playground
+# DOC-CUCUMBER-JAVASCRIPT
 
 1. Create an empty repository in Github.
 2. Launch VSCode and clone the above repository.
